@@ -21,7 +21,9 @@ Please upload the datasets(X.npy and Y.npy) and python files(train_data.py and t
 
 ## Medical Diagnosis and more resources for further research and knowledge
 **Histology of Breasts**:http://oncolex.org/Breast-cancer/Background/Histology
+
 **Understanding Pathology reports**:https://www.cancer.org/treatment/understanding-your-diagnosis/tests/understanding-your-pathology-report/breast-pathology/breast-cancer-pathology.html
+
 **Invasive lobular and ductal carcinoma: mammographic findings and stage at diagnosis.**:https://pubs.rsna.org/doi/abs/10.1148/radiology.184.3.1324506
 
 
