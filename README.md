@@ -1,5 +1,5 @@
-# Breast Cancer Prediction model
-Breast Cancer Prediction Model using histopathographical image data
+# Breast Cancer Detection model
+Breast Cancer Detection Model using histopathographical image data
 
 ## Detection of cancer in histopathological images
 Histopathological image data makes it clear in determination of most of the breast cancer cases like Invasive Ductal Carcinoma(IDC) or also called Infiltrating Ductal Carcinoma which accounts almost 80% of all breast cancer.
